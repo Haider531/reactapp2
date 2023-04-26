@@ -1,0 +1,3 @@
+[submodule "reactapp2"]
+	path = reactapp2
+	url = https://github.com/Haider531/reactapp2.git
